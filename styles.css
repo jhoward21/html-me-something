@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(103, 139, 168);
+    font-family: 'Montserrat', sans-serif;
+}
+/* Start of Nav Bar */
+.SpecialNav {
+    background-color: #5d4954;
+}
+
+.Mylist {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    margin: auto;
+    overflow: auto;  
+    list-style: none;
+    font-size: 18px;
+    color: rgb(75, 15, 15);
+    text-decoration: none;
+}
+/* End of Nav Bar */
+
+.Rio {
+    padding-left: 15px;
+}
+.Seattle {
+    padding-left: 15px;
+}
+.Phoneix {
+    padding-left: 15px;
+}
+
+#City1 {
+    padding-left: 15px;
+    color: rgb(75, 15, 15);
+}
+#City2 {
+    padding-left: 15px;
+    color: rgb(75, 15, 15);
+}
+#City3 {
+    padding-left: 15px;
+    color: rgb(75, 15, 15);
+}
